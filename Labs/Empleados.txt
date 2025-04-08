@@ -1,0 +1,6 @@
+﻿Num.                Nombre        Apellido                Departamento        Salario
+101                Juan                Salinas                Ventas                        18000.00
+102                Ernesto        Reyes                        Sistemas                        15000.00
+201                Norma        Calvo                        Personal                        17000.00
+202                Salvador        Casas                        Compras                        22000.00
+308                Cristina        Leduc                        Sistemas                        19000.00
