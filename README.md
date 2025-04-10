@@ -17,3 +17,14 @@ This section includes the main project I developed in C. The project showcases t
 Here, you will find exercises and examples focusing on arrays in C. Arrays are an essential data structure in C, and these exercises will help you practice working with them.
 
 These exercises will help you master arrays and enhance your understanding of C programming.
+
+---
+
+
+---
+
+### 👨‍💻 Author
+
+**Daniel Olivar**  
+Computer Engineer
+[GitHub: @DanielOlivar](https://github.com/DanielOlivar)
